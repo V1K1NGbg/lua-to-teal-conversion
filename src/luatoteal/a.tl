@@ -1,4 +1,4 @@
-require("b")
+require("luatoteal.b")
 
 Printb("helloB")
 

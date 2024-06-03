@@ -1,5 +1,5 @@
 return {
-   build_dir = "src/build",
-   source_dir = "src/luarocks",
-   include_dir = { "src/luarocks" },
+   build_dir = "build",
+   source_dir = "src",
+   include_dir = { "src" },
 }
